@@ -5,5 +5,6 @@ def prime?(num)
         if i==Math.sqrt(num).ceil   
           return true
     else return false
-end
+    end
+  end
 end
