@@ -1,5 +1,5 @@
 # Add  code here!
 def prime?(number)
-  is_prime = true
+  (1..number)
   range.each do |prime?|
 end
