@@ -1,7 +1,5 @@
 # Add  code here!
-def prime?(n)
-
+def prime?(number)
 require 'prime'
-
-Prime.prime?(n)
+Prime.prime?(number)
 end
