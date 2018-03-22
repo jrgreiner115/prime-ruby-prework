@@ -1,5 +1,5 @@
 # Add  code here!
-def prime_program(range = 1..1000000)
-  array= []
+def prime?(number)
+  is_prime = true
   range.each do |prime?|
 end
